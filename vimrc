@@ -35,5 +35,5 @@ set hlsearch
 nmap <C-l> :tabnext<CR>
 nmap <C-h> :tabprevious<CR>
 
-colorscheme koehler
+colorscheme default
 syntax on
